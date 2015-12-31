@@ -1,0 +1,10 @@
+Rock	3	1	He is holding a rock it looks like he just picked up off the arena floor.
+Dagger	5	3	He palms a small dagger that, although little, could do some damage in the right hands.
+Hammer	6	4	He is holding a normal blacksmith's hammer, possibly taken from the ready room for the gladiators.
+Short Sword	8	6	He has a short sword that allows some reach, but may not be enough.
+Mace	10	7	He holds a wicked looking mace that could dent a strong helmet with a clean hit.
+Long Sword	12	8	He is holding a long sword that is big enough give a nasty slash, but also small enough to penetrate armor with a skilled strike.
+Morningstar	14	9	He is spinning a morningstar wickedly. It looks like it can be used to bind an opponent's weapon, trip him, or just bash in his skull.
+Halberd	16	11	The gladiator is wielding a giant two-handed halberd that looks slow, but will destroy anything it connects with.
+Great Sword	18	13	He is leaning against a huge two-handed great sword that looks more suited for breaking bones than cutting anything.
+Giant Hammer	20	14	He is holding a huge hammer that looks like it will turn anything in its way to pulp.

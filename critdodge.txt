@@ -1,0 +1,14 @@
+Rock	%s swats away the rock like a gnat!
+Dagger	%s deflects the small knife like a sewing needle!
+Hammer	%s easily sidesteps the hammer!
+Short Sword	%s uses his own weapon to completely deflect the short sword!
+Mace	%s completely blocks the mace throwing his opponent off balance.
+Long Sword	%s blocks the slash of the long sword!
+Morningstar	%s completely dodges the morningstar!
+Halberd	%s blocks the arc of the halberd mid-swing and prevents all damage!
+Great Sword	%s miraculously blocks the great sword and escapes all damage!
+Giant Hammer	%s easily sidesteps the lumbering giant hammer!
+Quarterstaff	%s deftly blocks the flurry of blows of the quarterstaff!
+Curved Sword	%s dodges the deadly arc of the curved sword!
+Spear	%s completely deflects the point of the spear!
+Strange Sword	%s is able to avoid the thin edge of the strange sword!

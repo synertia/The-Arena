@@ -1,0 +1,9 @@
+Rock	%s deftly sneaks in and hits %s with the rock in his fist.
+Dagger	%s wields the dagger and sneaks in a hit on %s.
+Hammer	%s clumsily swings the hammer, but manages to hit %s
+Short Sword	%s confidently wields the short sword and hits %s.
+Quarterstaff	%s twirls the quarterstaff and hits %s.
+Long Sword	%s maneuvers his long sword and hits %s.
+Curved Sword	%s dances with the curved sword and slices %s.
+Spear	The spear flows like water in %s's hands and hits %s.
+Strange Sword	%s swings the strange sword and hits %s solidly.

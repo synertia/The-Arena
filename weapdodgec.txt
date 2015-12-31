@@ -1,0 +1,14 @@
+Rock	%s dodges the rock's strike.
+Dagger	%s gets around the small dagger.
+Hammer	%s moves out of the hammer's arc before it hits him.
+Short Sword	%s is able to dodge the short sword's strike.
+Mace	%s moves out of the way of the heavy mace.
+Long Sword	%s evades the long sword's reach.
+Morningstar	%s jumps away as the morningstar arcs wickedly through the air.
+Halberd	%s dodges the slow arc of the halberd.
+Great Sword	%s dodges the slow, deadly swing of the great sword.
+Giant Hammer	%s us able to evade the crushing fate of the giant hammer.
+Quarterstaff	%s is missed by the quarterstaff's arc.
+Curved Sword	%s dodges the swift edge of the curved sword.
+Spear	%s evades the small point of the spear.
+Strange Sword	%s blocks the arc of the wicked blade of the strange sword.

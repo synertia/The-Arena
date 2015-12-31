@@ -1,0 +1,10 @@
+Rock	%s manages to hit %s with his rock.
+Dagger	%s clumsily jabs with his dagger and connects with %s.
+Hammer	%s swings the hammer wildly and hits %s.
+Short Sword	%s swings his short sword and hits %s.
+Mace	%s swings the heavy mace and solidly connects with %s.
+Long Sword	%s swings his long sword and hits %s.
+Morningstar	%s swings the morningstar and hits %s.
+Halberd	%s swings the large halberd and hits %s.
+Great Sword	%s hits %s with the giant great sword.
+Giant Hammer	%s hits %s with his huge hammer.

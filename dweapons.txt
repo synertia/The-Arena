@@ -1,0 +1,9 @@
+Rock	3	1	He is holding a rock it looks like he just picked up off the arena floor.
+Dagger	5	3	He palms a small dagger that, although little, could do some damage in the right hands.
+Hammer	6	4	He is holding a normal blacksmith's hammer, possibly taken from the ready room for the gladiators.
+Short Sword	8	6	He has a short sword that allows some reach, but may not be enough.
+Quarterstaff	10	7	Even though the warrior's weapon does not have an edge, it has so many tactical uses that it could prove to be a useful weapon for a resourceful warrior.
+Long Sword	12	8	He is holding a long sword with an edge and a point allowing large tactical variety in the right hands.
+Curved Sword	15	9	The sword he is holding is long and curved in the style of the eastern warriors. This allows fast and quick cutting to defeat the opponent.
+Spear	17	10	The warrior is holding a long spear allowing a large distance to be kept between him and his opponent.
+Strange Sword	20	15	The warrior is holding a very strange long, thin, and curved sword of tempered steel. You have never seen a weapon so delicate, yet dangerous.

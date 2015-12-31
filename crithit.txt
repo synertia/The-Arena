@@ -1,0 +1,14 @@
+Rock	%s grips the rock and smashes the skull of %s!
+Dagger	%s expertly wields the dagger and brutally stabs %s!
+Hammer	%s wildly swings the hammer and smashes %s!
+Short Sword	%s deftly maneuvers the short sword and impales %s!
+Mace	%s swings the mace and audibly cracks the skull of %s!
+Long Sword	%s swings the sword and lacerates %s!
+Morningstar	%s twirls the morningstar wickedly before smashing the skull of %s!
+Halberd	%s whirls the halberd with flare before brutally slicing %s!
+Great Sword	%s manhandles the great sword while swinging it to slam %s!
+Giant Hammer	%s expertly swings the gigantic hammer and smashes $s with a cringing crack!
+Quarterstaff	%s dances with the quarterstaff before expertly pummeling %s!
+Curved Sword	%s makes the sword dance like a liquid flame before slicing %s!
+Spear	%s maneuvers the point between %s's defenses and painfully impales him!
+Strange Sword	%s swings the mystical sword like an extension of himself and brutally lacerates %s!
